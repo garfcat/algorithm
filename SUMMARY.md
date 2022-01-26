@@ -8,7 +8,7 @@
 
 ## 链表
 
-* [Page 1](lian-biao/page-1.md)
+* [算法](lian-biao/suan-fa.md)
 * [Page 2](lian-biao/page-2.md)
 
 ## 分治、回朔
