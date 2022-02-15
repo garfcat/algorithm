@@ -7,6 +7,7 @@
 * [移动零](shu-zu/yi-dong-ling.md)
 * [盛最多水的容器](shu-zu/sheng-zui-duo-shui-de-rong-qi.md)
 * [爬楼梯](shu-zu/pa-lou-ti.md)
+* [两数之和](shu-zu/liang-shu-zhi-he.md)
 
 ## 链表
 
