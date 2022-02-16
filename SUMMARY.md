@@ -12,7 +12,7 @@
 
 ## 链表
 
-* [算法](lian-biao/suan-fa.md)
+* [反转链表](lian-biao/fan-zhuan-lian-biao.md)
 * [Page 2](lian-biao/page-2.md)
 
 ## 分治、回朔
