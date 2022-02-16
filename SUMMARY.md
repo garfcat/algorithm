@@ -13,7 +13,7 @@
 ## 链表
 
 * [反转链表](lian-biao/fan-zhuan-lian-biao.md)
-* [Page 2](lian-biao/page-2.md)
+* [判断有环链表](lian-biao/pan-duan-you-huan-lian-biao.md)
 
 ## 分治、回朔
 
