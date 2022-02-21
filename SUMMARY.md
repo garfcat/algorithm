@@ -16,7 +16,12 @@
 * [判断有环链表](lian-biao/pan-duan-you-huan-lian-biao.md)
 * [链表相交](lian-biao/lian-biao-xiang-jiao.md)
 * [两两交换链表中的节点](lian-biao/liang-liang-jiao-huan-lian-biao-zhong-de-jie-dian.md)
+* [Page 1](lian-biao/page-1.md)
+
+## 栈、队列
+
+* [有效的括号](zhan-dui-lie/you-xiao-de-kuo-hao.md)
 
 ## 分治、回朔
 
-* [Page 3](fen-zhi-hui-shuo/page-3.md)
+* [Copy of Page 3](fen-zhi-hui-shuo/copy-of-page-3.md)
