@@ -21,6 +21,7 @@
 ## 栈、队列
 
 * [有效的括号](zhan-dui-lie/you-xiao-de-kuo-hao.md)
+* [min stack](zhan-dui-lie/min-stack.md)
 
 ## 分治、回朔
 
