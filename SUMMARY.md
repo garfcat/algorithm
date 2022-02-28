@@ -22,6 +22,7 @@
 
 * [有效的括号](zhan-dui-lie/you-xiao-de-kuo-hao.md)
 * [min stack](zhan-dui-lie/min-stack.md)
+* [柱状图中最大的矩形](zhan-dui-lie/zhu-zhuang-tu-zhong-zui-da-de-ju-xing.md)
 
 ## 分治、回朔
 
