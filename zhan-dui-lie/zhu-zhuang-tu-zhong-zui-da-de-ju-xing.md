@@ -74,6 +74,13 @@ func newStack() *stackType {
 	stack.push(initElement)
 	return stack
 }
+
+/*
+1. 入栈检查
+2. 清空队列
+3. i 为右边界
+
+*/
 func largestRectangleArea(heights []int) int {
 	stack := newStack()
 
