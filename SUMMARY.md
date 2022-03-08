@@ -27,6 +27,7 @@
 ## 哈希表、集合
 
 * [有效的异位符](ha-xi-biao-ji-he/you-xiao-de-yi-wei-fu.md)
+* [字母异位词分组](ha-xi-biao-ji-he/zi-mu-yi-wei-ci-fen-zu.md)
 
 ## Copy of 分治、回朔
 
