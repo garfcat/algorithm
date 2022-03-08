@@ -20,4 +20,24 @@ func SortString(w string) string {
     sort.Strings(s)
     return strings.Join(s, "")
 }
+
+// 哈希 
+// hash[v]-- 如果原来不存在 则 hash[v]-- 等效于 hash[v] = 0 - 1
+func isAnagram(s string, t string) bool {
+    if len(s) != len(t) {
+        return false
+    }
+    hash := make(map[rune]int)
+    for _,v :=range s {
+        hash[v]++
+    }
+    for _,v := range t {
+        hash[v]--
+        if hash[v] < 0 {
+            return false
+        }
+    }
+    
+    return true
+}
 ```
