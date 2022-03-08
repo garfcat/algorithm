@@ -24,6 +24,10 @@
 * [min stack](zhan-dui-lie/min-stack.md)
 * [柱状图中最大的矩形](zhan-dui-lie/zhu-zhuang-tu-zhong-zui-da-de-ju-xing.md)
 
-## 分治、回朔
+## 哈希表、集合
 
-* [Copy of Page 3](fen-zhi-hui-shuo/copy-of-page-3.md)
+* [有效的异位符](ha-xi-biao-ji-he/you-xiao-de-yi-wei-fu.md)
+
+## Copy of 分治、回朔
+
+* [Copy of Copy of Page 3](copy-of-fen-zhi-hui-shuo/copy-of-copy-of-page-3.md)
