@@ -40,4 +40,19 @@ func isAnagram(s string, t string) bool {
     
     return true
 }
+
+// 哈希 二
+
+// tt 是 ss 的异位词等价于「两个字符串中字符出现的种类和次数均相等」， 维护两个数组计算每个字符出现的次数,
+// 最后比较两个数组
+func isAnagram(s string, t string) bool {
+    var s1 , t1 [26]int
+    for _,v := range s {
+        s1[v-'a']++ 
+    }
+   for _,v := range t {
+        t1[v-'a']++ 
+    }
+    return s1 == t1
+}
 ```
