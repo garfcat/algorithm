@@ -1,7 +1,7 @@
 # 递归模版
 
 ```
-func recursion(level int, param1 interface, param2 interface, ...) {
+func recursion(level int, param int) {
 
     // 递归推出条件
     if level > MaxLevel {
@@ -10,10 +10,10 @@ func recursion(level int, param1 interface, param2 interface, ...) {
     }
     
     // 处理当前层的数据
-    process_data(level, data...)
+    process_data(level, param)
     
     //进入下一层
-    recursion(level+1, param1, param2,...)
+    recursion(level+1, param)
     
     // 清理当前层的状态数据
 
