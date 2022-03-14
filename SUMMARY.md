@@ -16,7 +16,6 @@
 * [判断有环链表](lian-biao/pan-duan-you-huan-lian-biao.md)
 * [链表相交](lian-biao/lian-biao-xiang-jiao.md)
 * [两两交换链表中的节点](lian-biao/liang-liang-jiao-huan-lian-biao-zhong-de-jie-dian.md)
-* [Page 1](lian-biao/page-1.md)
 
 ## 栈、队列
 
@@ -29,9 +28,13 @@
 * [有效的异位符](ha-xi-biao-ji-he/you-xiao-de-yi-wei-fu.md)
 * [字母异位词分组](ha-xi-biao-ji-he/zi-mu-yi-wei-ci-fen-zu.md)
 
-## Copy of 分治、回朔
+## 树
 
-* [Copy of Copy of Page 3](copy-of-fen-zhi-hui-shuo/copy-of-copy-of-page-3.md)
+* [二叉树中序遍历](shu/er-cha-shu-zhong-xu-bian-li.md)
+
+## Copy of 树
+
+* [Copy of 树](copy-of-shu/copy-of-shu.md)
 
 ## 知识点总结
 
