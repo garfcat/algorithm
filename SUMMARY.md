@@ -31,6 +31,7 @@
 ## 树
 
 * [二叉树中序遍历](shu/er-cha-shu-zhong-xu-bian-li.md)
+* [二叉树前序遍历](shu/er-cha-shu-qian-xu-bian-li.md)
 
 ## Copy of 树
 
