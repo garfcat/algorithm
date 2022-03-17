@@ -37,6 +37,7 @@
 ## 递归
 
 * [递归模版](di-gui/di-gui-mo-ban.md)
+* [生成有效的括号](di-gui/sheng-cheng-you-xiao-de-kuo-hao.md)
 
 ## Copy of 递归
 
