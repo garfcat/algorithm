@@ -38,6 +38,7 @@
 
 * [递归模版](di-gui/di-gui-mo-ban.md)
 * [生成有效的括号](di-gui/sheng-cheng-you-xiao-de-kuo-hao.md)
+* [98. 验证二叉搜索树](di-gui/98.-yan-zheng-er-cha-sou-suo-shu.md)
 
 ## Copy of 递归
 
