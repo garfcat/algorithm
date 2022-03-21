@@ -44,6 +44,7 @@
 
 * [分治回溯特性](copy-of-di-gui/copy-of-copy-of-shu.md)
 * [泛型递归/分治模版](fen-zhi-hui-su/fan-xing-di-gui-fen-zhi-mo-ban.md)
+* [x 的 n 次幂函数](fen-zhi-hui-su/x-de-n-ci-mi-han-shu.md)
 
 ## Copy of Copy of 递归
 
