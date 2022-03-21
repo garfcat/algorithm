@@ -40,9 +40,14 @@
 * [生成有效的括号](di-gui/sheng-cheng-you-xiao-de-kuo-hao.md)
 * [98. 验证二叉搜索树](di-gui/98.-yan-zheng-er-cha-sou-suo-shu.md)
 
-## Copy of 递归
+## 分治、回溯
 
-* [Copy of Copy of 树](copy-of-di-gui/copy-of-copy-of-shu.md)
+* [分治回溯特性](fen-zhi-hui-su/fen-zhi-hui-su-te-xing.md)
+* [泛型递归模版](fen-zhi-hui-su/fan-xing-di-gui-mo-ban.md)
+
+## Copy of Copy of 递归
+
+* [Copy of Copy of Copy of 树](copy-of-copy-of-di-gui/copy-of-copy-of-copy-of-shu.md)
 
 ## 知识点总结
 
