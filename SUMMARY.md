@@ -45,6 +45,7 @@
 * [分治回溯特性](copy-of-di-gui/copy-of-copy-of-shu.md)
 * [泛型递归/分治模版](fen-zhi-hui-su/fan-xing-di-gui-fen-zhi-mo-ban.md)
 * [x 的 n 次幂函数](fen-zhi-hui-su/x-de-n-ci-mi-han-shu.md)
+* [多数元素](fen-zhi-hui-su/duo-shu-yuan-su.md)
 
 ## Copy of Copy of 递归
 
@@ -53,3 +54,4 @@
 ## 知识点总结
 
 * [golang 如何对字符串排序](zhi-shi-dian-zong-jie/golang-ru-he-dui-zi-fu-chuan-pai-xu.md)
+* [package sort](zhi-shi-dian-zong-jie/package-sort.md)
