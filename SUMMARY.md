@@ -46,6 +46,8 @@
 * [泛型递归/分治模版](fen-zhi-hui-su/fan-xing-di-gui-fen-zhi-mo-ban.md)
 * [x 的 n 次幂函数](fen-zhi-hui-su/x-de-n-ci-mi-han-shu.md)
 * [多数元素](fen-zhi-hui-su/duo-shu-yuan-su.md)
+* [电话号码](fen-zhi-hui-su/dian-hua-hao-ma.md)
+* [n 皇后问题](fen-zhi-hui-su/n-huang-hou-wen-ti.md)
 
 ## Copy of Copy of 递归
 
