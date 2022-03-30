@@ -49,9 +49,14 @@
 * [电话号码](fen-zhi-hui-su/dian-hua-hao-ma.md)
 * [n 皇后问题](fen-zhi-hui-su/n-huang-hou-wen-ti.md)
 
-## Copy of Copy of 递归
+## 深度优先搜索和广度优先搜索
 
-* [Copy of Copy of Copy of 树](copy-of-copy-of-di-gui/copy-of-copy-of-copy-of-shu.md)
+* [模版](shen-du-you-xian-sou-suo-he-guang-du-you-xian-sou-suo/mo-ban.md)
+
+## 贪心算法
+
+* [贪心算法](tan-xin-suan-fa/tan-xin-suan-fa.md)
+* [分发饼干问题](tan-xin-suan-fa/fen-fa-bing-gan-wen-ti.md)
 
 ## 知识点总结
 
