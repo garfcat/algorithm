@@ -59,6 +59,7 @@
 * [分发饼干问题](tan-xin-suan-fa/fen-fa-bing-gan-wen-ti.md)
 * [买卖股票的最佳时机 II](tan-xin-suan-fa/mai-mai-gu-piao-de-zui-jia-shi-ji-ii.md)
 * [跳跃游戏](tan-xin-suan-fa/tiao-yue-you-xi.md)
+* [跳跃游戏2](tan-xin-suan-fa/tiao-yue-you-xi-2.md)
 
 ## 知识点总结
 
