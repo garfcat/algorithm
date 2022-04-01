@@ -64,6 +64,7 @@
 ## 二分查找
 
 * [二分查找模版](er-fen-cha-zhao/er-fen-cha-zhao-mo-ban.md)
+* [求平方根](er-fen-cha-zhao/qiu-ping-fang-gen.md)
 
 ## 知识点总结
 
