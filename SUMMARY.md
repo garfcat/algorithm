@@ -61,6 +61,10 @@
 * [跳跃游戏](tan-xin-suan-fa/tiao-yue-you-xi.md)
 * [跳跃游戏2](tan-xin-suan-fa/tiao-yue-you-xi-2.md)
 
+## 二分查找
+
+* [二分查找模版](er-fen-cha-zhao/er-fen-cha-zhao-mo-ban.md)
+
 ## 知识点总结
 
 * [golang 如何对字符串排序](zhi-shi-dian-zong-jie/golang-ru-he-dui-zi-fu-chuan-pai-xu.md)
