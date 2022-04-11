@@ -66,6 +66,13 @@
 * [二分查找模版](er-fen-cha-zhao/er-fen-cha-zhao-mo-ban.md)
 * [求平方根](er-fen-cha-zhao/qiu-ping-fang-gen.md)
 
+## 动态规划
+
+* [代码模版](dong-tai-gui-hua/dai-ma-mo-ban.md)
+* [什么是动态规划](dong-tai-gui-hua/shi-mo-shi-dong-tai-gui-hua.md)
+* [不同路径](dong-tai-gui-hua/bu-tong-lu-jing.md)
+* [不同路径2](dong-tai-gui-hua/bu-tong-lu-jing-2.md)
+
 ## 知识点总结
 
 * [golang 如何对字符串排序](zhi-shi-dian-zong-jie/golang-ru-he-dui-zi-fu-chuan-pai-xu.md)
