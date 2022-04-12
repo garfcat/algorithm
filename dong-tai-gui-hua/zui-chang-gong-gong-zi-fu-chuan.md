@@ -51,6 +51,8 @@ func max(i ,j  int) int {
     }
     return i
 }
+
+// 类似于斐波那契数列 只不过这里是二维的
 func longestCommonSubsequence(text1 string, text2 string) int {
    m := len(text1)+1
    n := len(text2)+1
