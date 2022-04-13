@@ -73,6 +73,7 @@
 * [不同路径](dong-tai-gui-hua/bu-tong-lu-jing.md)
 * [不同路径2](dong-tai-gui-hua/bu-tong-lu-jing-2.md)
 * [最长公共字符串](dong-tai-gui-hua/zui-chang-gong-gong-zi-fu-chuan.md)
+* [爬楼梯](dong-tai-gui-hua/pa-lou-ti.md)
 
 ## 知识点总结
 
