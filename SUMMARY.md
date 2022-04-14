@@ -75,6 +75,7 @@
 * [最长公共字符串](dong-tai-gui-hua/zui-chang-gong-gong-zi-fu-chuan.md)
 * [爬楼梯](dong-tai-gui-hua/pa-lou-ti.md)
 * [最大子数组和](dong-tai-gui-hua/zui-da-zi-shu-zu-he.md)
+* [乘积最大的子数组](dong-tai-gui-hua/cheng-ji-zui-da-de-zi-shu-zu.md)
 
 ## 知识点总结
 
