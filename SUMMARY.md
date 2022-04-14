@@ -74,6 +74,7 @@
 * [不同路径2](dong-tai-gui-hua/bu-tong-lu-jing-2.md)
 * [最长公共字符串](dong-tai-gui-hua/zui-chang-gong-gong-zi-fu-chuan.md)
 * [爬楼梯](dong-tai-gui-hua/pa-lou-ti.md)
+* [最大子数组和](dong-tai-gui-hua/zui-da-zi-shu-zu-he.md)
 
 ## 知识点总结
 
