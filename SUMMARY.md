@@ -81,3 +81,4 @@
 
 * [golang 如何对字符串排序](zhi-shi-dian-zong-jie/golang-ru-he-dui-zi-fu-chuan-pai-xu.md)
 * [package sort](zhi-shi-dian-zong-jie/package-sort.md)
+* [copy](zhi-shi-dian-zong-jie/copy.md)
